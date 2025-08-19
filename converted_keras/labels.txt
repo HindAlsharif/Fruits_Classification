@@ -1,0 +1,3 @@
+0 cherries
+1 strawberries
+2 oranges
