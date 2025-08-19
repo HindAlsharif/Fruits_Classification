@@ -20,7 +20,8 @@ This project is an image classification model that identifies three types of fru
 - The script will output the predicted class and the confidence score.
 
 # Prediction Example
-<img width="1280" height="1101" alt="image" src="https://github.com/user-attachments/assets/8e2caea6-b309-4dbc-a2ca-5984431d97d0" />
+![image](https://github.com/user-attachments/assets/751325d1-67a0-4fd9-83f8-c2aa39e971a3)
+
 
 The image shows an example of the prediction results displayed in the output.
 
