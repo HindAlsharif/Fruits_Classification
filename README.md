@@ -26,5 +26,5 @@ This project is an image classification model that identifies three types of fru
 The image shows an example of the prediction results displayed in the output.
 
 # Author
-Hind Ibrahim Alsharif
-IT Student at Taif University
+Hind Ibrahim Alsharif  
+IT Student at Taif University  
